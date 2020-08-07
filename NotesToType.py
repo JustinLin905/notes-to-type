@@ -150,8 +150,16 @@ stream.start_stream()
 window = 0.5 * (1 - np.cos(np.linspace(0, 2*np.pi, SAMPLES_PER_FFT, False)))
 
 # Print initial text
-print('sampling at', FSAMP, 'Hz with max resolution of', FREQ_STEP, 'Hz')
+print ("Starting NotesToType...")
+
+sleep(3)
+
+print('\n\nBeginning sampling at', FSAMP, 'Hz with max resolution of', FREQ_STEP, 'Hz')
 print()
+
+sleep(1.5)
+
+
 
 # As long as we are getting data:
 while stream.is_active:
