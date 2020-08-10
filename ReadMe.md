@@ -1,8 +1,10 @@
 # NotesToType.py
 
-NotesToType is a script which turns notes detected by the microphone into keyboard output. 
+NotesToType is a Python script which turns musical notes detected by the microphone into keyboard output. 
 
 Dependencies for this program include `numpy`, `pyaudio`, `pyautogui`, and `audioop`.
+
+An easy-to-use .exe file has been included, if you want to use the script out of the box with no Python installation.
 
 # Usage
 
