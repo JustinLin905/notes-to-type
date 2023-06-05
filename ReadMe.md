@@ -19,7 +19,7 @@ The default detectable note range is C4 (Middle C) to C5 (one octave above C4). 
 * B4 -> SAVE (CTRL + S)
 * C5 -> OPEN (CTRL + O)
 
-Simply play a note that is at least **35dB** loud, and the function corresponding to the note will activate. Pure tones work best for accuracy, but instruments and voice can also be used to produce notes for the microphone (provided they are in tune).
+Simply play a note that is at least **35dB** loud, and the function corresponding to the note will activate. Pure tones work best for accuracy, but instruments and voice can also be used to produce notes for the microphone (provided they are in tune!).
 
 # Editing
 
